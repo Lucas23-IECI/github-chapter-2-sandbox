@@ -1,3 +1,1 @@
 Go ahead and fork this repository before cloning to your local computer! 😊
-
-git clone https://github.com/Lucas23-IECI/github-chapter-2-sandbox.git
